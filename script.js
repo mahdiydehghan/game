@@ -23,7 +23,6 @@ while (plus<=4) {
     let cnt=0
     let b=parseInt(prompt("enter your number"))
     let baghi=0
-    let cn=0
     while (b!=0) {
         baghi=parseInt(b%10)
         y.push(baghi)
